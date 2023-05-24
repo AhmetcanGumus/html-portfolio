@@ -1,0 +1,24 @@
+* {
+    background-color: #BFCCB5;
+}
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    color: #db78e0; 
+    background-color: #FFDCB6;
+    font-family: 'Barlow', serif;
+}
+h2 {
+    text-align: center;
+    color: #7C96AB;
+    background-color: #B7B7B7;
+}
+#Div1 {
+color: #2C3333;
+}
+#Div2 {
+    color: #18122B;
+}
+#Div3 {
+    color: #20262E;
+}

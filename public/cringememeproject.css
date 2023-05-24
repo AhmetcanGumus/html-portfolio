@@ -1,0 +1,21 @@
+div {
+    width: 50%;
+    margin-left: 25%;
+    text-transform: uppercase;
+}
+* {
+    background-color: black;
+}
+#Bla {
+    font-family: 'Caveat', cursive;
+    color: aliceblue;
+    text-align: center;
+}
+#blal {
+    color: white;
+    text-align: center;
+}
+img {
+   border: solid white 5px;
+    width: 100%;
+}

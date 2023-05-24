@@ -1,0 +1,21 @@
+* {
+background-color: #FCFFE7;
+}
+h1 {
+    color: #068DA9;
+    text-align: center;
+}
+h2 {
+    color: #7E1717;   
+ background-color: #F6E1C3;line-height: 100%; width: 100%;
+ text-align: center;
+}
+#Div2 {
+    color: #E55807;
+}
+#Div1 {
+    color: #E55807;
+}
+img {
+    border: solid #526D82 3px;
+}
